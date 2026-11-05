@@ -1,0 +1,8 @@
+/target/
+/out/
+/local-install/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.swp
+*.tmp

@@ -1,0 +1,5 @@
+sequence_id	v_call	j_call	junction	donor_id	sample_id	locus
+a	IGHV1	IGHJ1	AAAA	d	s	IGH
+b	IGHV1	IGHJ1	AAAC	d	s	IGH
+c	IGHV1	IGHJ1	CCCC	d	s	IGH
+d	IGHV1	IGHJ1	CCCG	d	s	IGH

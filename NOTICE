@@ -1,0 +1,82 @@
+# Third-party notices
+
+Original ClonoTrace code: Apache-2.0 OR MIT. External packages remain under their
+own licenses. This inventory is generated from locked Cargo package metadata;
+it is not a new license grant. No upstream oracle runtime is redistributed.
+
+| Package | Version | Declared license |
+| --- | --- | --- |
+| [adler2](https://crates.io/crates/adler2/2.0.1) | 2.0.1 | 0BSD OR MIT OR Apache-2.0 |
+| [anstream](https://crates.io/crates/anstream/1.0.0) | 1.0.0 | MIT OR Apache-2.0 |
+| [anstyle](https://crates.io/crates/anstyle/1.0.14) | 1.0.14 | MIT OR Apache-2.0 |
+| [anstyle-parse](https://crates.io/crates/anstyle-parse/1.0.0) | 1.0.0 | MIT OR Apache-2.0 |
+| [anstyle-query](https://crates.io/crates/anstyle-query/1.1.5) | 1.1.5 | MIT OR Apache-2.0 |
+| [anstyle-wincon](https://crates.io/crates/anstyle-wincon/3.0.11) | 3.0.11 | MIT OR Apache-2.0 |
+| [bitflags](https://crates.io/crates/bitflags/2.13.2) | 2.13.2 | MIT OR Apache-2.0 |
+| [block-buffer](https://crates.io/crates/block-buffer/0.10.4) | 0.10.4 | MIT OR Apache-2.0 |
+| [cfg-if](https://crates.io/crates/cfg-if/1.0.5) | 1.0.5 | MIT OR Apache-2.0 |
+| [clap](https://crates.io/crates/clap/4.6.6) | 4.6.6 | MIT OR Apache-2.0 |
+| [clap_builder](https://crates.io/crates/clap_builder/4.6.6) | 4.6.6 | MIT OR Apache-2.0 |
+| [clap_derive](https://crates.io/crates/clap_derive/4.6.4) | 4.6.4 | MIT OR Apache-2.0 |
+| [clap_lex](https://crates.io/crates/clap_lex/1.1.1) | 1.1.1 | MIT OR Apache-2.0 |
+| [colorchoice](https://crates.io/crates/colorchoice/1.0.5) | 1.0.5 | MIT OR Apache-2.0 |
+| [cpufeatures](https://crates.io/crates/cpufeatures/0.2.17) | 0.2.17 | MIT OR Apache-2.0 |
+| [crc32fast](https://crates.io/crates/crc32fast/1.5.2) | 1.5.2 | MIT OR Apache-2.0 |
+| [crossbeam-deque](https://crates.io/crates/crossbeam-deque/0.8.8) | 0.8.8 | MIT OR Apache-2.0 |
+| [crossbeam-epoch](https://crates.io/crates/crossbeam-epoch/0.9.21) | 0.9.21 | MIT OR Apache-2.0 |
+| [crossbeam-utils](https://crates.io/crates/crossbeam-utils/0.8.23) | 0.8.23 | MIT OR Apache-2.0 |
+| [crypto-common](https://crates.io/crates/crypto-common/0.1.7) | 0.1.7 | MIT OR Apache-2.0 |
+| [digest](https://crates.io/crates/digest/0.10.7) | 0.10.7 | MIT OR Apache-2.0 |
+| [either](https://crates.io/crates/either/1.18.0) | 1.18.0 | MIT OR Apache-2.0 |
+| [errno](https://crates.io/crates/errno/0.3.14) | 0.3.14 | MIT OR Apache-2.0 |
+| [fastrand](https://crates.io/crates/fastrand/2.5.0) | 2.5.0 | Apache-2.0 OR MIT |
+| [flate2](https://crates.io/crates/flate2/1.1.9) | 1.1.9 | MIT OR Apache-2.0 |
+| [generic-array](https://crates.io/crates/generic-array/0.14.7) | 0.14.7 | MIT |
+| [getrandom](https://crates.io/crates/getrandom/0.4.3) | 0.4.3 | MIT OR Apache-2.0 |
+| [heck](https://crates.io/crates/heck/0.5.0) | 0.5.0 | MIT OR Apache-2.0 |
+| [is_terminal_polyfill](https://crates.io/crates/is_terminal_polyfill/1.70.2) | 1.70.2 | MIT OR Apache-2.0 |
+| [itoa](https://crates.io/crates/itoa/1.0.18) | 1.0.18 | MIT OR Apache-2.0 |
+| [libc](https://crates.io/crates/libc/0.2.189) | 0.2.189 | MIT OR Apache-2.0 |
+| [linux-raw-sys](https://crates.io/crates/linux-raw-sys/0.12.1) | 0.12.1 | Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT |
+| [memchr](https://crates.io/crates/memchr/2.8.3) | 2.8.3 | Unlicense OR MIT |
+| [miniz_oxide](https://crates.io/crates/miniz_oxide/0.8.9) | 0.8.9 | MIT OR Zlib OR Apache-2.0 |
+| [once_cell](https://crates.io/crates/once_cell/1.21.4) | 1.21.4 | MIT OR Apache-2.0 |
+| [once_cell_polyfill](https://crates.io/crates/once_cell_polyfill/1.70.2) | 1.70.2 | MIT OR Apache-2.0 |
+| [proc-macro2](https://crates.io/crates/proc-macro2/1.0.107) | 1.0.107 | MIT OR Apache-2.0 |
+| [quote](https://crates.io/crates/quote/1.0.47) | 1.0.47 | MIT OR Apache-2.0 |
+| [r-efi](https://crates.io/crates/r-efi/6.0.0) | 6.0.0 | MIT OR Apache-2.0 OR LGPL-2.1-or-later |
+| [rayon](https://crates.io/crates/rayon/1.12.0) | 1.12.0 | MIT OR Apache-2.0 |
+| [rayon-core](https://crates.io/crates/rayon-core/1.13.0) | 1.13.0 | MIT OR Apache-2.0 |
+| [rustix](https://crates.io/crates/rustix/1.1.4) | 1.1.4 | Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT |
+| [ryu](https://crates.io/crates/ryu/1.0.23) | 1.0.23 | Apache-2.0 OR BSL-1.0 |
+| [serde](https://crates.io/crates/serde/1.0.228) | 1.0.228 | MIT OR Apache-2.0 |
+| [serde_core](https://crates.io/crates/serde_core/1.0.228) | 1.0.228 | MIT OR Apache-2.0 |
+| [serde_derive](https://crates.io/crates/serde_derive/1.0.228) | 1.0.228 | MIT OR Apache-2.0 |
+| [serde_json](https://crates.io/crates/serde_json/1.0.145) | 1.0.145 | MIT OR Apache-2.0 |
+| [sha2](https://crates.io/crates/sha2/0.10.9) | 0.10.9 | MIT OR Apache-2.0 |
+| [simd-adler32](https://crates.io/crates/simd-adler32/0.3.10) | 0.3.10 | MIT |
+| [strsim](https://crates.io/crates/strsim/0.11.1) | 0.11.1 | MIT |
+| [syn](https://crates.io/crates/syn/2.0.119) | 2.0.119 | MIT OR Apache-2.0 |
+| [syn](https://crates.io/crates/syn/3.0.6) | 3.0.6 | MIT OR Apache-2.0 |
+| [tempfile](https://crates.io/crates/tempfile/3.27.0) | 3.27.0 | MIT OR Apache-2.0 |
+| [typenum](https://crates.io/crates/typenum/1.20.1) | 1.20.1 | MIT OR Apache-2.0 |
+| [unicode-ident](https://crates.io/crates/unicode-ident/1.0.27) | 1.0.27 | (MIT OR Apache-2.0) AND Unicode-3.0 |
+| [utf8parse](https://crates.io/crates/utf8parse/0.2.2) | 0.2.2 | Apache-2.0 OR MIT |
+| [version_check](https://crates.io/crates/version_check/0.9.5) | 0.9.5 | MIT/Apache-2.0 |
+| [windows-link](https://crates.io/crates/windows-link/0.2.1) | 0.2.1 | MIT OR Apache-2.0 |
+| [windows-sys](https://crates.io/crates/windows-sys/0.61.2) | 0.61.2 | MIT OR Apache-2.0 |
+
+Full Cargo dependency checksums are in Cargo.lock. Some platform-specific
+dependencies in the lock are not linked on macOS. All packages remain unpublished.
+
+Unmodified Change-O 1.3.5 and SCOPer 1.6.0 are separate-process AGPL-3
+references; their runtime code is not copied, linked or relicensed. Stored
+synthetic memberships are factual observations from independently authored inputs,
+not upstream source code. Upstream software and biological datasets are not bundled.
+
+Historical public-table attribution: 10x Genomics, Human B cells from a Healthy
+Donor, 1k cells (Cell Ranger 6.0.0), and 10k Human PBMCs, 5-prime v2.0,
+Chromium X with intronic reads (Cell Ranger 6.1.2). The manuscript identifies
+these sources. The source release contains synthetic fixtures, not these datasets.
+Dependencies are fetched separately using Cargo.lock and retain their own terms.
+No dependency source or third-party runtime is redistributed in this archive.

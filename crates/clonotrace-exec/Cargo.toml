@@ -1,0 +1,13 @@
+[package]
+name = "clonotrace-exec"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+license.workspace = true
+description = "Partition execution, memory planning, and deterministic scheduling."
+
+[dependencies]
+clonotrace-airr = { path = "../clonotrace-airr" }
+clonotrace-group = { path = "../clonotrace-group" }
+clonotrace-cluster = { path = "../clonotrace-cluster" }
+rayon.workspace = true

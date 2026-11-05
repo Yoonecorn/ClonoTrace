@@ -1,0 +1,9 @@
+[package]
+name = "clonotrace-distance"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+license.workspace = true
+description = "Junction distances and substitution models."
+
+[dependencies]

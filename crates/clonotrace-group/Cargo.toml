@@ -1,0 +1,10 @@
+[package]
+name = "clonotrace-group"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+license.workspace = true
+description = "Ambiguity-aware candidate group construction."
+
+[dependencies]
+clonotrace-airr = { path = "../clonotrace-airr" }

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this software and the accompanying manuscript when using ClonoTrace."
+type: software
+title: "ClonoTrace: deterministic clonal inference and alternative receptor models for B-cell repertoires"
+version: "1.0.0"
+authors:
+  - family-names: Yap
+    given-names: Yoon Sing
+repository-code: "https://github.com/Yoonecorn/ClonoTrace"
+url: "https://github.com/Yoonecorn/ClonoTrace"
+license:
+  - Apache-2.0
+  - MIT

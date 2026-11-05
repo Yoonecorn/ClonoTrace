@@ -1,0 +1,12 @@
+[package]
+name = "clonotrace-cluster"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+license.workspace = true
+description = "Identical, threshold, and hierarchical clone assignment."
+
+[dependencies]
+clonotrace-airr = { path = "../clonotrace-airr" }
+clonotrace-group = { path = "../clonotrace-group" }
+clonotrace-distance = { path = "../clonotrace-distance" }

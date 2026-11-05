@@ -1,0 +1,25 @@
+[package]
+name = "clonotrace-cli"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+license.workspace = true
+description = "Command-line entry point and configuration."
+
+[[bin]]
+name = "clonotrace"
+path = "src/main.rs"
+
+[dependencies]
+clonotrace-airr = { path = "../clonotrace-airr" }
+clonotrace-group = { path = "../clonotrace-group" }
+clonotrace-cluster = { path = "../clonotrace-cluster" }
+clonotrace-exec = { path = "../clonotrace-exec" }
+clonotrace-report = { path = "../clonotrace-report" }
+clap.workspace = true
+serde_json.workspace = true
+clonotrace-spectral = { path = "../clonotrace-spectral" }
+clonotrace-germline = { path = "../clonotrace-germline" }
+rayon.workspace = true
+sha2.workspace = true
+clonotrace-extended = { path = "../clonotrace-extended" }
